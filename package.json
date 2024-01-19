@@ -1,0 +1,20 @@
+{
+  "name": "my-logo-generator",
+  "version": "1.0.0",
+  "description": "A simple logo generator command-line application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
+
